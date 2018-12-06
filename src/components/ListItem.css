@@ -1,0 +1,6 @@
+.listItem{
+  margin-right: 5px;
+  font-size: 14px;
+  max-width: 25%;
+  border-right: 2px solid black;
+}
